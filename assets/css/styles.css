@@ -760,7 +760,7 @@ body.dark-theme {
   margin-top: .55rem;
 }
 
-.projects__elements:hover {}
+/* .projects__elements:hover {} */
 
 .projects__title {
   font-size: var(--h2-font-size);
